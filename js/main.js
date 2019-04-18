@@ -3,7 +3,7 @@ let restaurants,
   cuisines
 var newMap
 var markers = []
-
+var test ="Hello"
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
  */
