@@ -1,5 +1,3 @@
-# Mobile Web Specialist Certification Course
----
 ## Project Overview
 The goal of the projet was to convert a static webpage to a mobile-ready web application.
 
