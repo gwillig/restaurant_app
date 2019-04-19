@@ -5,6 +5,10 @@ self.addEventListener('install', function(event) {
       return cache.addAll([
         '/',
         '/css/styles.css',
+        '/css/max400.css',
+        '/css/401_800.css',
+        '/css/restaurant_max400.css',
+        '/css/restaurant_401_800.css',
         '/data/restaurants.json',
         '/img/1.jpg',
         '/img/2.jpg',

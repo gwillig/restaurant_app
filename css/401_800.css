@@ -1,0 +1,39 @@
+nav h1 a {
+  font-size: 3rem;
+  text-align: center;
+}
+.filter-options{
+	height:100px;
+}
+
+.filter-options h2{
+  font-size: 2rem;
+  padding-top: 5px;
+}
+
+#restaurants-list li{
+  width:90%;
+}
+
+#restaurants-list li a{
+  width: 90%;
+  height: 50px;
+  font-size: 2rem;
+}
+.filter-options select {
+  height: 45px;
+  width: 300px;
+
+}
+
+.inside #map-container {
+  background: blue none repeat scroll 0 0;
+  height: 88%;
+  position: fixed;
+  right: 0;
+  top: 80px;
+  width: 50%;
+}
+.filter-options select {
+  font-size: 1.5rem;
+}
