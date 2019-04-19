@@ -1,10 +1,7 @@
 # Mobile Web Specialist Certification Course
 ---
-## Project Overview: Stage 1
-
-For the **Restaurant Reviews** projects, you will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, you will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. You will also add a service worker to begin the process of creating a seamless offline experience for your users.
-
-d project requirements. The rubric should be a resource you refer to periodically to make sure your project meets specifications.
+## Project Overview
+The goal of the projet was to convert a static webpage to a mobile-ready web application.
 
 ### How to run
 
